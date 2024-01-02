@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="codeKitchensTiger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/codeKitchensTiger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
